@@ -11,13 +11,9 @@ description: "
 "
 email: test@test.com
 contact:
-  - title: linkedin
-    url: test
   - title: github
-    url: test
-  - title: twitter
-    url: test
-  - title: dev
-    url: tst
+    url: https://github.com/dylandavids0n
+  - title: twittertwitter.com/dylandavids0n
+    url: https://twitter.com/dylandavids0n
   - title: email
     url: tst
