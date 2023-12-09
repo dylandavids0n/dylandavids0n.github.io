@@ -11,11 +11,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-analytics
 
 collections_dir: all_collections
 collections:
   posts:
     output: true
+
+jekyll_analytics:
+  Piwik:                    # Add, if you want to track with Piwik
+    url: dylandavids0n.piwik.pro  # Required - url to Piwik installation without trailing /
+    siteId: "dylandavids0n.github.io"          # Required - replace with your Piwik site id (Write id as string)
 
 defaults:
   - scope:
