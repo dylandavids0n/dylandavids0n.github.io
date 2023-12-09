@@ -21,7 +21,7 @@ collections:
 jekyll_analytics:
   Piwik:                    # Add, if you want to track with Piwik
     url: dylandavids0n.piwik.pro  # Required - url to Piwik installation without trailing /
-    siteId: "dylandavids0n.github.io"          # Required - replace with your Piwik site id (Write id as string)
+    siteId: "93e358f1-d9bc-45a0-9668-788a335b88ca"          # Required - replace with your Piwik site id (Write id as string)
 
 defaults:
   - scope:
