@@ -1,10 +1,10 @@
-title: Test
+title: Dylan Davidson
 markdown: kramdown
 
 # for atom feed
 author:
   name: Dylan Davidson
-  email: test
+  email: dylan.davidson5267@gmail.com
 
 plugins:
   - jemoji
